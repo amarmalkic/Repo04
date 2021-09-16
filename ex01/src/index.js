@@ -3,12 +3,12 @@ function main(numOne, numTwo){
     if(numTwo === 0) {
         quotient = 'Divide by 0! Cannot divide by zero!';
     } else {
-        // Only change code below this line
+        // only change code below this line
 var quotient;
 var numOne;
 var numTwo;
 quotient = numOne / numTwo
-        // Only change code above this line
+        // only change code above this line
     }
     return quotient;
 }
